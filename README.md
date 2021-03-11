@@ -21,10 +21,10 @@ This  is a replica of Google front end with a logo twist which includes Google S
 - **I'm feeling lucky button** takes you to the first Google search result.
 
 ## Screenshots and Demo
-![Screenshot from 2021-03-11 16-49-26](https://user-images.githubusercontent.com/56313500/110797663-5e0dea00-828a-11eb-907b-cd135d94059c.png)
-<br/>
-![Screenshot from 2021-03-11 16-50-01](https://user-images.githubusercontent.com/56313500/110797656-5c442680-828a-11eb-986d-474009e83d0e.png)
-<br/>
+![Screenshot from 2021-03-11 16-50-01](https://user-images.githubusercontent.com/56313500/110797656-5c442680-828a-11eb-986d-474009e83d0e.png)  
+---
+![Screenshot from 2021-03-11 16-49-26](https://user-images.githubusercontent.com/56313500/110797663-5e0dea00-828a-11eb-907b-cd135d94059c.png)  
+---
 ![Screenshot from 2021-03-11 16-49-41](https://user-images.githubusercontent.com/56313500/110797650-59e1cc80-828a-11eb-8dbf-9236cbdf953c.png)
 
 
