@@ -5,14 +5,14 @@ This  is a replica of Google front end with a logo twist which includes Google S
 ## Features 
 
 - There are three pages for: 
--- Google Search
--- Google Image Search
--- Google Advanced Search
+  - Google Search
+  - Google Image Search
+  - Google Advanced Search
 - **Advanced Search** has four input fields:
--- Find pages with… “all these words:”
--- Find pages with… “this exact word or phrase:”
--- Find pages with… “any of these words:”
--- Find pages with… “none of these words:”
+  - Find pages with… “all these words:”
+  - Find pages with… “this exact word or phrase:”
+  - Find pages with… “any of these words:”
+  - Find pages with… “none of these words:”
 - **Google Search** takes you to Google search results for the query you entered.
 - **Google Image Search** takes you to Google image search results for the query you entered.
 - **I'm feeling lucky button** takes you to the first Google search result.
