@@ -1,0 +1,45 @@
+img {
+    width: 20%;
+    margin-top: 15%;
+    margin-left: 40%;
+}
+  
+input[type = text] {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    height: 40px;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 25px;
+    background-image: url('icon.jpg');
+    background-size: 25px 25px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-color: white;
+    padding-left: 45px;
+}
+
+input[type = submit] {
+    background-color: #4285F4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  medium;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left: 46%;
+    margin-top: 1%;
+}
+
+#google_search {
+    color: #4285F4;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    padding-right: 2%;
+    padding-top: 2%;
+    top: 0;
+    right: 0;
+}
+
+

@@ -1,0 +1,112 @@
+img {
+    size: 110%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 1%;
+}
+
+p {
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    position: absolute;
+    top:60px;
+    left: 60px;
+}
+
+hr {
+    margin-top: 125px;
+    margin-bottom: 50px;
+}
+
+.row {
+    display: flex;
+}
+  
+.column1 {
+    margin-left: 60px;
+    flex: 50%;
+}
+
+.column2{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 60px;
+    flex: 50%;
+    font-size: small;
+    color: grey;
+}
+
+#find {
+    font-size: large;
+    margin-bottom: 25px;
+}
+
+#to_do {
+    font-size: medium;
+}
+
+input[type = text] {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 650px;
+    height: 20px;
+}
+
+#t1 {
+    position: absolute;
+    top:220px;
+    left: 300px;
+}
+
+#t2 {
+    position: absolute;
+    top:255px;
+    left: 300px;
+}
+
+#t3 {
+    position: absolute;
+    top:290px;
+    left: 300px;
+}
+
+#t4 {
+    position: absolute;
+    top:325px;
+    left: 300px;
+}
+
+#td2 {
+    margin-top: 20px;
+}
+
+#td3 {
+    margin-top: 20px;
+}
+
+#td4 {
+    margin-top: 20px;
+}
+
+input[type = submit] {
+    background-color: #4285F4;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:  medium;
+    border: none;
+    color: white;
+    padding: 8px 16px;
+    cursor: pointer;
+    margin-left: 735px;
+}
+
+#google_search {
+    color: #4285F4;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    padding-right: 2%;
+    padding-top: 5%;
+    top: 0;
+    right: 0;
+}
+
+
