@@ -8,14 +8,15 @@ This  is a replica of Google front end with a logo twist which includes Google S
   - Google Search
   - Google Image Search
   - Google Advanced Search
+  
 - **Advanced Search** has four input fields:
   - Find pages with… “all these words:”
   - Find pages with… “this exact word or phrase:”
   - Find pages with… “any of these words:”
   - Find pages with… “none of these words:”
-- **Google Search** takes you to Google search results for the query you entered.
-- **Google Image Search** takes you to Google image search results for the query you entered.
-- **I'm feeling lucky button** takes you to the first Google search result.
+- **Google Search** takes the user to Google search results for the query user entered.
+- **Google Image Search** takes the user to Google image search results for the query user entered.
+- **I'm feeling lucky button** takes the user to the first Google search result.
 
 ## Screenshots and Demo
 ![Screenshot from 2021-03-11 16-50-01](https://user-images.githubusercontent.com/56313500/110797656-5c442680-828a-11eb-986d-474009e83d0e.png)  
